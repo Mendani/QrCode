@@ -1,0 +1,27 @@
+header {
+  height: 80px;
+  font-size: 18px;
+  width: 70%;
+  display: flex;
+  justify-content: space-between;
+  margin: 20px auto;
+  border-bottom: 2px solid black;
+  box-shadow: 3px 4px 5px black;
+}
+
+header img {
+  filter: drop-shadow(2px 3px 4px black);
+}
+
+.contenter {
+  height: 300px;
+  width: fit-content;
+  display: block;
+  margin: 30px auto;
+  border: 2px solid black;
+  padding-top: 10px;
+}
+
+.formulario {
+  margin-bottom: 20px;
+}
